@@ -1,0 +1,50 @@
+main{
+    min-height: 80vh;
+}
+
+.navbar{
+    background-color: rgb(237, 132, 52);
+    color: white;
+}
+
+.nav-link{
+    color: rgba(255,255,255,.5);
+    transition: 0.5s;
+}
+
+.nav-link:hover{
+    color: rgba(255,255,255,.85);
+}
+
+.btn-info{
+    background-color: rgb(237, 132, 52);
+    transition: 0.5s;
+}
+
+.btn-info:hover{
+    background-color: rgb(167, 85, 23);
+}
+
+.btn-form{   
+    background-color: rgb(237, 132, 52);
+    transition: 0.5s;
+}
+
+.btn-form:hover{   
+    background-color: rgb(167, 85, 23);
+}
+
+.btn-research{   
+    background-color: rgb(237, 132, 52);
+    color: white;
+    transition: 0.5s;
+}
+
+.btn-research:hover{   
+    background-color: rgb(167, 85, 23);
+}
+
+.stats{
+    background-color:  rgb(237, 132, 52);
+    color: white;
+}
