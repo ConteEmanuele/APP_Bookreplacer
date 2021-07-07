@@ -22,7 +22,6 @@ async function getLatest(){
 
     let result = await fetch('http://localhost:3000/published');
     let data = await result.json();
-    console.log(data);
 
     for( let i = 0; i < data.length; i++ ){
         

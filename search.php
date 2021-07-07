@@ -12,16 +12,16 @@
     
     <nav id="topNav" class="navbar">
         
-        <a class="navbar-brand" href="dashboard.html" title="Home">
+        <a class="navbar-brand" href="dashboard.php" title="Home">
             <img src="img/nav-logo.png" alt="BookReplacer">
         </a>
 
         <ul class="nav justify-content-end">
             <li class="nav-item">
-                <a href="reservation.html" class="nav-link">Le tue prenotazioni</a>
+                <a href="reservation.php" class="nav-link">Le tue prenotazioni</a>
             </li>
             <li class="nav-item">
-                <a href="login.html" class="nav-link">Logout</a>
+                <a href="login.php" class="nav-link">Logout</a>
             </li>
         </ul>
         

@@ -8,7 +8,7 @@ searchButton.addEventListener('click', async (e) => {
     table.innerHTML = "";
     search();
 
-}); 
+});
 
 async function search(){
 
