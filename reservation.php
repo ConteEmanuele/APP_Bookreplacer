@@ -1,7 +1,7 @@
 <?php
 
     session_start();
-    $email = $_SESSION['email'];
+    $username = $_SESSION['username'];
 
 ?>
 
@@ -54,7 +54,7 @@
             </div>
 
             <div class="card-body">
-                <div id="books" class="container-fluid" data-email="<?= htmlspecialchars($email) ?>">
+                <div id="books" class="container-fluid" data-username="<?= htmlspecialchars($username) ?>">
 
                     <div class="row justify-content-between">
         

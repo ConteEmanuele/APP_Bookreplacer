@@ -92,7 +92,7 @@
                             <div id="author_0" class="col p-3 font-weight-bold d-flex justify-content-center">Autore</div>
                             <div id="publisher_0" class="col p-3 font-weight-bold d-flex justify-content-center">Casa Editrice</div>
                             <div id="year_0" class="col p-3 font-weight-bold d-flex justify-content-center">Anno di pubblicazione</div>
-                            <div id="conditions_0" class="col p-3 font-weight-bold d-flex justify-content-center">Condizioni</div>
+                            <div id="status_0" class="col p-3 font-weight-bold d-flex justify-content-center">Condizioni</div>
     
                         </div>
     
@@ -103,7 +103,7 @@
                                 <div id="author_" class="col p-3 d-flex justify-content-center"></div>
                                 <div id="publisher_" class="col p-3 d-flex justify-content-center"></div>
                                 <div id="year_" class="col p-3 d-flex justify-content-center"></div>
-                                <div id="conditions_" class="col p-3 d-flex justify-content-center"></div>
+                                <div id="status_" class="col p-3 d-flex justify-content-center"></div>
         
                             </div>    
                         </template>

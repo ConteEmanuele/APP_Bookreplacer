@@ -5,7 +5,7 @@ getReservations();
 
 async function getReservations(){
 
-    let user = table.dataset.email;
+    let user = table.dataset.username;
     let endpoint = "http://localhost:3000/orders/" + user;
 
     let result = await fetch(endpoint);

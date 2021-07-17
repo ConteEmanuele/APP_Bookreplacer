@@ -34,7 +34,7 @@
             <form action="php/login.php" method="POST" class=" d-flex flex-column p-5 border border-2 rounded">
         
                 <div class="form-group">
-                    <input type="text" name="email" id="email" placeholder="Inserisci email" required ="required" class="form-control">
+                    <input type="text" name="username" id="username" placeholder="Inserisci username" required ="required" class="form-control">
                 </div>
                 <div class="form-group">
                     <input type="password" name="password" id="password" placeholder="Inserisci password" required ="required" class="form-control">
